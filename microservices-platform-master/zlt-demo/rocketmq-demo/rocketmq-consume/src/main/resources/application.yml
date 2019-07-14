@@ -9,7 +9,7 @@ spring:
       rocketmq:
         binder:
           # RocketMQ 服务器地址
-          name-server: 192.168.28.130:9876
+          name-server: 127.0.0.1:9876
         bindings:
           input2:
             consumer:

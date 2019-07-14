@@ -20,4 +20,5 @@ public class IdGenerator {
     public static String getIdStr() {
         return String.valueOf(WORKER.nextId());
     }
+
 }

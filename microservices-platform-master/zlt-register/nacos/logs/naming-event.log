@@ -1,0 +1,72 @@
+2019-07-13 12:37:04,191 INFO DEFAULT_GROUP@@api-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:9900:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:37:04,194 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@api-gateway, ips: 192.168.1.6:9900_true,
+
+2019-07-13 12:38:21,299 INFO DEFAULT_GROUP@@uaa-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:38:21,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uaa-server, ips: 192.168.1.6:8000_true,
+
+2019-07-13 12:39:20,602 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:39:20,602 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.1.6:7000_true,
+
+2019-07-13 12:42:03,731 INFO DEFAULT_GROUP@@file-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:5000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:42:03,731 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@file-center, ips: 192.168.1.6:5000_true,
+
+2019-07-13 12:43:09,451 INFO DEFAULT_GROUP@@code-generator {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:7300:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:43:09,451 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@code-generator, ips: 192.168.1.6:7300_true,
+
+2019-07-13 12:45:27,790 INFO DEFAULT_GROUP@@sc-admin {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:6500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:45:27,791 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sc-admin, ips: 192.168.1.6:6500_true,
+
+2019-07-13 12:47:44,388 INFO DEFAULT_GROUP@@log-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:7200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 12:47:44,388 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@log-center, ips: 192.168.1.6:7200_true,
+
+2019-07-13 13:00:50,832 INFO DEFAULT_GROUP@@TX-Manager {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:7970:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:00:50,832 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@TX-Manager, ips: 192.168.1.6:7970_true,
+
+2019-07-13 13:01:54,576 INFO DEFAULT_GROUP@@search-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.6:7100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:01:54,577 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@search-center, ips: 192.168.1.6:7100_true,
+
+2019-07-13 13:13:06,416 INFO DEFAULT_GROUP@@uaa-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:8000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:06,416 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uaa-server, ips: 
+
+2019-07-13 13:13:06,541 INFO DEFAULT_GROUP@@api-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:9900:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:06,542 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@api-gateway, ips: 
+
+2019-07-13 13:13:06,606 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:7000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:06,606 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+
+2019-07-13 13:13:06,914 INFO DEFAULT_GROUP@@code-generator {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:7300:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:06,914 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@code-generator, ips: 
+
+2019-07-13 13:13:07,016 INFO DEFAULT_GROUP@@sc-admin {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:6500:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:07,016 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@sc-admin, ips: 
+
+2019-07-13 13:13:07,113 INFO DEFAULT_GROUP@@file-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:5000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:07,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@file-center, ips: 
+
+2019-07-13 13:13:07,167 INFO DEFAULT_GROUP@@log-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:7200:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:07,167 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@log-center, ips: 
+
+2019-07-13 13:13:07,499 INFO DEFAULT_GROUP@@search-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:7100:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:07,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@search-center, ips: 
+
+2019-07-13 13:13:07,554 INFO DEFAULT_GROUP@@TX-Manager {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.6:7970:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-07-13 13:13:07,554 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@TX-Manager, ips: 
+
